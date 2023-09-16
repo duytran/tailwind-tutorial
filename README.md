@@ -9,6 +9,8 @@ Net Ninja: https://www.youtube.com/watch?v=bxmDnn7lrnk
 
 ### Tailwind CSS
 
+https://tailwindcss.com/
+
 ```
 npm install tailwindcss
 ```
